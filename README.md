@@ -37,8 +37,8 @@ python-dotenv
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/jira-extractor.git
-cd jira-extractor
+git clone https://github.com/7homasjames/JIRA-Ticket-Extractor.git
+
 ```
 
 ### 2. Create a `.env` file in the root directory
