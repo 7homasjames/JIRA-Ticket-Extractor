@@ -33,7 +33,7 @@ for issue in issues:
         'Description': fields.description,
         'Labels': ', '.join(fields.labels),
     })
-
+print("DATA EXTRACTED:", data)
 # Convert to DataFrame
 df = pd.DataFrame(data)
 
